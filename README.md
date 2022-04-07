@@ -1,3 +1,5 @@
+Saara - modifier avec VS Code v.1
+
 # 🌱 Le tutoriel rapide de Github 🌱
 
 Si vous voulez faire partie du club premium github (PGC), vous devez relever les défis suivants et prouver votre maîtrise de Git/Github à l'équipe.
@@ -5,6 +7,7 @@ Si vous voulez faire partie du club premium github (PGC), vous devez relever les
 Quel est votre nom d'utisateur ?
 
 ## Travailler sur votre Repo local
+
 Échauffons-nous rapidement avant de passer aux choses sérieuses.
 
 - Créez un nouveau `repo` vide sur Github.com en suivant les règles de nommage du laboratoire : `NNNp_MonPremierRepo`
